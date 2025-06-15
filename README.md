@@ -1,3 +1,3 @@
-# #welfit.github.io
+# <a href="welfit.github.io">WELFIT</a>
 Верстка интернет-магазина по продаже спортивного инвентаря.
 
